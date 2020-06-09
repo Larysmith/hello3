@@ -1,0 +1,21 @@
+{
+  "lockfileVersion": 1,
+  "name": "django-webrtc",
+  "description": "Video and Audio Calling with WebRtc in Django",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Larysmith/Django-WebRtc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Larysmith/Django-WebRtc/issues"
+  },
+  "homepage": "https://github.com/Larysmith/Django-WebRtc#readme",
+  "keywords": []
+}
